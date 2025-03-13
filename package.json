@@ -1,5 +1,5 @@
 {
-  "name": "bens-portfolio",
+  "name": "Mansi-portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -22,5 +22,7 @@
     "eslint-config-next": "^15.1.3",
     "postcss": "^8.5.1",
     "tailwindcss": "^3.4.17"
-  }
+  },
+  "homepage": "https://gamerreborn2020.github.io/mansiportfolio"
 }
+
